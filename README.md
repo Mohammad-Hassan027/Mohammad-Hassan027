@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hassan Shaikh 👋
 
-<!--
-**Mohammad-Hassan027/Mohammad-Hassan027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Building scalable web applications with React, Node.js & MongoDB  
+🌱 **Learning:** TypeScript, Next.js, Docker & AWS deployment  
+👯 **Open to:** Collaborating on open-source MERN projects  
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/mohammad-hassan-shaikh) | [Email](mailto:your.email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 📌 Featured Projects
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [Blog-App](#) | Full-stack blog platform with auth, CRUD, rich text | MERN, JWT, Quill.js | [View Demo](#) |
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Hassan027&show_icons=true&theme=react)
